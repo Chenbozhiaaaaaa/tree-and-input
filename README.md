@@ -1,5 +1,5 @@
 # cs
-
+实现了点击tree节点 对应得input获取焦点
 > A Vue.js project
 
 ## Build Setup
